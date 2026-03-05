@@ -10,7 +10,7 @@
 
 <img width="444" height="auto" alt="localhost_64388_(iPhone SE) (3)" src="https://github.com/user-attachments/assets/2d69cf0e-7018-4e3a-b357-2e0d842fdc74" />
 
-<img width="444" height="auto" alt="localhost_64388_(iPhone SE) (3)" src="https://github.com/user-attachments/assets/173085f3-4943-4b1f-acb1-e889ad205974" />
+<img width="444" height="auto" alt="localhost_58254_(iPhone SE)" src="https://github.com/user-attachments/assets/d678b4df-e4d9-48f4-a641-d4f8afd4d1e7" />
 
 ## Registration List Page
 
