@@ -23,3 +23,5 @@
 <img width="444" height="auto" alt="localhost_58254_(iPhone SE) (3)" src="https://github.com/user-attachments/assets/f3ea658d-a544-470f-90e7-e73d0ef95c64" />
 
 ## Profile Page
+
+<img width="750" height="1334" alt="localhost_54380_(iPhone SE)" src="https://github.com/user-attachments/assets/6d48332e-eed0-4a1b-8bd4-f2e3a5caa84b" />
