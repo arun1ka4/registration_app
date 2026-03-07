@@ -6,6 +6,11 @@
 
 <img width="444" height="auto" alt="localhost_64388_(iPhone SE)" src="https://github.com/user-attachments/assets/a02ece17-09c6-4128-ae8b-caac0a8c469c" />
 
+Semua data pada form berikut wajib diisi, kecuali jenis kelamin yang sudah terisi dari awal dengan value laki-laki. 
+Elemen yang ada pada page ini sebagai berikut:
+- Field nama lengkap: minimal terisi 3 karakter
+- field email
+
 <img width="444" height="auto" alt="localhost_64388_(iPhone SE) (1)" src="https://github.com/user-attachments/assets/e17fc46d-733c-46c2-8c70-8dff1476c01a" />
 
 <img width="444" height="auto" alt="localhost_64388_(iPhone SE) (3)" src="https://github.com/user-attachments/assets/2d69cf0e-7018-4e3a-b357-2e0d842fdc74" />
