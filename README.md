@@ -1,23 +1,6 @@
 <h1 align="center"> Registration App </h1>
 
-## 📁 Project Structure
-
-project-rental/
-│
-├── main.py
-├── data/
-│   ├── alat.csv
-│   └── transaksi.csv
-│
-├── modules/
-│   ├── admin.py
-│   ├── user.py
-│
-└── docs/
-    ├── flowchart.png
-    └── screenshot.png
-
-### Registration Page
+## Registration Page
 
 <img width="444" height="auto" alt="localhost_64388_(iPhone SE)" src="https://github.com/user-attachments/assets/a02ece17-09c6-4128-ae8b-caac0a8c469c" />
 
