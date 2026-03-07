@@ -1,15 +1,21 @@
 <h1 align="center"> Registration App </h1>
 
-## Struktur Project
-## 🔄 Flowchart Sistem
+## 📁 Project Structure
 
-![Flowchart]
-
-## 📸 Screenshot Program
-
-![Menu Utama]
-
-## Dokumentasi
+project-rental/
+│
+├── main.py
+├── data/
+│   ├── alat.csv
+│   └── transaksi.csv
+│
+├── modules/
+│   ├── admin.py
+│   ├── user.py
+│
+└── docs/
+    ├── flowchart.png
+    └── screenshot.png
 
 ### Registration Page
 
