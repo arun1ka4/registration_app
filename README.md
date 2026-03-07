@@ -1,5 +1,14 @@
 <h1 align="center"> Registration App </h1>
 
+## Struktur Project
+## 🔄 Flowchart Sistem
+
+![Flowchart]
+
+## 📸 Screenshot Program
+
+![Menu Utama]
+
 ## Dokumentasi
 
 ### Registration Page
