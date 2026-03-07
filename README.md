@@ -9,7 +9,14 @@
 Semua data pada form berikut wajib diisi, kecuali jenis kelamin yang sudah terisi dari awal dengan value laki-laki. 
 Elemen yang ada pada page ini sebagai berikut:
 - Field nama lengkap: minimal terisi 3 karakter
-- field email
+- field email: isi email dengan format nama@gmail.com
+- field password: minimal nilai terisi 8 karakter
+- Jenis kelamin: klik salah satu radio button (Laki-laki atau perempuan)
+- Program studi: pilih salah satu pilihan pada dropdown dari 5 program studi
+- Field tanggal lahir: menampilkan kalender saat dipencet dengan batas pilih awal 1990 dan batas akhir sekarang
+- Checkbox "Saya setuju dengan syarat & ketentuan": Pencet box atau teks di samping checkbox yang berati setuju pada pernyataan yang ada
+- Tombol "Daftar sekarang": Pencet untuk ke tahap selanjutnya
+- Tombol "Reset form": Pencet untuk reset form
 
 <img width="444" height="auto" alt="localhost_64388_(iPhone SE) (1)" src="https://github.com/user-attachments/assets/e17fc46d-733c-46c2-8c70-8dff1476c01a" />
 
